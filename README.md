@@ -16,6 +16,10 @@ Features:
 5. writting to sd card
 6. Indication LEDS
 7. Indication with buzzer
+8. tilt-lock
+9. Apogee detection using accelemeter and barometer
+10. 6 pyro channels for staging / parachute deplyment
+11. event timing?
 
 Components/Chips:
 1. Barometer/Altimeter -> MS5611,BMP388
@@ -29,6 +33,7 @@ Components/Chips:
 Stretch Goals:
 1. servo control
 2. camera control
+3. seperate battery for pyro channels
 
 Helpful videos:
 1. https://www.youtube.com/watch?v=nUywu65qgFY&t=634s
