@@ -12,6 +12,8 @@ Features:
 1. run off two small lipo batteries (for redundancy)
 2. live telemetry using E32 LoRa module by EBYTE (custom data transmistion?)
 3. place to attach switch
+4. voltage and current monitoring
+5. writting to sd card
 
 Components/Chips:
 1. Barometer/Altimeter -> MS5611,BMP388
