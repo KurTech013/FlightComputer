@@ -15,6 +15,6 @@ Components/Chips:
 2.  IMU(Accelerometer + Gyro) MPU6050, MPU9250
 3. SD card
 4. possible flash storage
-5. IRLZ44N (or similar) -> for events like staging or parchute deployment
+5. IRLZ44N or PMPB10NX (or similar) -> for events like staging or parchute deployment 
    
 
