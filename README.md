@@ -5,8 +5,8 @@ This will contain all progress and resources for MSOEs HPRC custom flight comput
 Flight Computer v1
 --------------------
 Microcontroller:
-easy = esp32 based
-hard but way better = stm32 stm32f405
+1. easy = esp32 based
+2. hard but way better = stm32 stm32f405
 
 Features:
 1. run off two small lipo batteries (for redundancy)
