@@ -20,6 +20,7 @@ Features:
 9. Apogee detection using accelemeter and barometer
 10. 6 pyro channels for staging / parachute deplyment
 11. event timing?
+12. Kalman Filter for more accurate data reading 
 
 Components/Chips:
 1. Barometer/Altimeter -> MS5611,BMP388
