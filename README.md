@@ -15,6 +15,7 @@ Features:
 4. voltage and current monitoring
 5. writting to sd card
 6. Indication LEDS
+7. Indication with buzzer
 
 Components/Chips:
 1. Barometer/Altimeter -> MS5611,BMP388
