@@ -37,4 +37,6 @@ Stretch Goals:
 
 Helpful videos:
 1. https://www.youtube.com/watch?v=nUywu65qgFY&t=634s
+2. https://predictabledesigns.com/tutorial-how-to-design-your-own-custom-microcontroller-board-video-part1/
+3. 
 
