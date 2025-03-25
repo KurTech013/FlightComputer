@@ -19,7 +19,7 @@ Features:
 8. tilt-lock
 9. Apogee detection using accelemeter and barometer
 10. 6 pyro channels for staging / parachute deplyment
-11. event timing?
+11. event timing/ variable velocity events?
 
 Components/Chips:
 1. Barometer/Altimeter -> MS5611,BMP388
